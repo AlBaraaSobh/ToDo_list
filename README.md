@@ -59,8 +59,7 @@ Feel free to open an issue or submit a pull request!
 👤 Author
 Al Baraa A. M. Sobh
 📧 albaraasobh@gmail.com
-🔗 LinkedIn
-🔗 GitHub 
+
 
 📄 License
 This project is licensed under the MIT License.
